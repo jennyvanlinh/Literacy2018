@@ -1,4 +1,4 @@
-# Literacy2020
+# Literacy2022
 
 My submission to the 2022 IronViz Student Edition Contest.
 
